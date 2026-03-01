@@ -14,7 +14,7 @@ A.A.S. General Studies Degree, Harrisburg Area Community College (HACC) – Dean
 ## 🏢 Experience
 |  **Position** |  **Company** |  **Field** |  **Work Period** |
 |---|---|---|---|
-|  **Systems Administrator** | Prelude Services | IT MSSP  | March 2025 - March - Present |
+|  **Systems Administrator** | Prelude Services | IT MSSP  | March 2025 - Present |
 |  **Network Operations Center (NOC) Analyst** | Prelude Services  |  IT MSSP | January 2024 - March 2025 |
 |  **Certified Chemotherapy/Infusion Pharmacy Technician I** | Wellspan Health | In-Patient Hospital | December 2022 - January 2024 |
 |  **Certified Pharmacy Technician** | CVS Health (Pharmacy) | Retail Pharmacy | October 2019 - December 2022 |
@@ -34,6 +34,7 @@ A.A.S. General Studies Degree, Harrisburg Area Community College (HACC) – Dean
 | **SOC Core Skills** | AntiSyphon |
 | **Active Defense & Cyber Deception** | AntiSyphon |
 |  **ChPT** | PTCB |
+
 
 <!--
 **Valkyela/Valkyela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
