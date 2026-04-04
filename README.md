@@ -14,12 +14,13 @@ A.A.S. General Studies Degree, Harrisburg Area Community College (HACC) – Dean
 ## 🏢 Experience
 |  **Position** |  **Company** |  **Field** |  **Work Period** |
 |---|---|---|---|
-|  **Systems Administrator** | Prelude Services | IT MSSP  | March 2025 - Present |
+| **Information Security Specialist** | Prelude Service | IT MSSP | March 2026 - Present  |
+|  **Systems Administrator** | Prelude Services | IT MSSP  | March 2025 - March 2026 |
 |  **Network Operations Center (NOC) Analyst** | Prelude Services  |  IT MSSP | January 2024 - March 2025 |
 |  **Certified Chemotherapy/Infusion Pharmacy Technician I** | Wellspan Health | In-Patient Hospital | December 2022 - January 2024 |
 |  **Certified Pharmacy Technician** | CVS Health (Pharmacy) | Retail Pharmacy | October 2019 - December 2022 |
 
-<!--| **Information Security Specialist** | Prelude Service | IT MSSP |   | !--> 
+<!--| **Position** | Company Name | Job Field |   | !--> 
 
 ## 📜 Certifications
 
